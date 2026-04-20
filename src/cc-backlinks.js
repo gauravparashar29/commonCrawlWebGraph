@@ -37,6 +37,15 @@ const formatBytes = (bytes) => {
 
   return `${size.toFixed(unitIndex === 0 ? 0 : 1)} ${units[unitIndex]}`;
 };
+const normalizeDomainCandidates = (value) => {
+  const candidates = [value];
+
+  if (value.startsWith('www.')) {
+    candidates.push(value.slice(4));
+  }
+
+  return [...new Set(candidates)];
+};
 
 const db = new duckdb.Database(':memory:');
 const connection = db.connect();
@@ -156,21 +165,36 @@ async function main() {
     await runDuckDB(`PRAGMA threads=${threads};`);
   }
 
-  const escapedDomain = duckdbSqlEscape(reverseDomain(domain));
+  const candidates = normalizeDomainCandidates(domain);
+  let matchedDomain = null;
+
   log('>> checking domain exists in vertices ...');
 
-  const vertexCountRows = await runDuckDB(`
+  for (const candidate of candidates) {
+    const escapedCandidate = duckdbSqlEscape(reverseDomain(candidate));
+    const vertexCountRows = await runDuckDB(`
 SELECT COUNT(*) AS vertex_count
 FROM read_csv('${verticesPath.replaceAll('\\', '/')}', delim='\t', header=false, columns={'id':'BIGINT','rev_domain':'VARCHAR','num_hosts':'BIGINT'})
-WHERE rev_domain = '${escapedDomain}';
+WHERE rev_domain = '${escapedCandidate}';
 `);
-  const vertexCount = Number.parseInt(vertexCountRows[0]?.vertex_count ?? '0', 10);
+    const vertexCount = Number.parseInt(vertexCountRows[0]?.vertex_count ?? '0', 10);
 
-  if (vertexCount === 0) {
+    if (vertexCount > 0) {
+      matchedDomain = candidate;
+      if (candidate !== domain) {
+        log(`>> matched apex domain: ${candidate}`);
+      }
+      break;
+    }
+  }
+
+  if (!matchedDomain) {
     fail(`'${domain}' not found in the ${release} vertex file`);
   }
 
-  log(`>> querying backlinks for ${domain} ...`);
+  const escapedDomain = duckdbSqlEscape(reverseDomain(matchedDomain));
+
+  log(`>> querying backlinks for ${matchedDomain} ...`);
   log('>> NOTE: first run scans a large gzipped edge file and may take several minutes');
 
   const resultRows = await runDuckDB(`
