@@ -8,8 +8,10 @@ import { randomUUID } from 'node:crypto';
 import duckdb from 'duckdb';
 
 const argv = process.argv.slice(2);
-const domain = argv[0] ?? 'example.com';
-const topN = Number.parseInt(argv[1] ?? '100', 10);
+const hasTrailingTopN = argv.length > 0 && /^\d+$/.test(argv[argv.length - 1]);
+const topN = Number.parseInt(hasTrailingTopN ? argv[argv.length - 1] : '100', 10);
+const domains = (hasTrailingTopN ? argv.slice(0, -1) : argv).flatMap((value) => value.split(',').map((entry) => entry.trim()).filter(Boolean));
+const requestedDomains = domains.length > 0 ? domains : ['example.com'];
 const release = process.env.CC_RELEASE ?? 'cc-main-2026-jan-feb-mar';
 const threads = Number.parseInt(process.env.CC_THREADS ?? '', 10);
 const cacheDir = `${process.env.HOME ?? process.env.USERPROFILE ?? tmpdir()}/.cache/cc-backlinks/${release}`;
@@ -146,15 +148,17 @@ function closeConnection() {
 }
 
 async function main() {
-  if (!domain || domain.includes(' ')) {
-    fail('domain must be a single hostname such as example.com');
-  }
-
   if (!Number.isFinite(topN) || !isPositiveInteger(topN)) {
     fail('top_n must be a positive integer');
   }
 
-  log(`>> domain:   ${domain}  (reversed: ${reverseDomain(domain)})`);
+  for (const domain of requestedDomains) {
+    if (!domain || domain.includes(' ')) {
+      fail('each domain must be a single hostname such as example.com');
+    }
+  }
+
+  log(`>> domains:  ${requestedDomains.join(', ')}`);
   log(`>> release:  ${release}`);
   log(`>> cache:    ${cacheDir}`);
 
@@ -165,39 +169,41 @@ async function main() {
     await runDuckDB(`PRAGMA threads=${threads};`);
   }
 
-  const candidates = normalizeDomainCandidates(domain);
-  let matchedDomain = null;
+  for (const domain of requestedDomains) {
+    const candidates = normalizeDomainCandidates(domain);
+    let matchedDomain = null;
 
-  log('>> checking domain exists in vertices ...');
+    log(`>> checking domain exists in vertices: ${domain} ...`);
 
-  for (const candidate of candidates) {
-    const escapedCandidate = duckdbSqlEscape(reverseDomain(candidate));
-    const vertexCountRows = await runDuckDB(`
+    for (const candidate of candidates) {
+      const escapedCandidate = duckdbSqlEscape(reverseDomain(candidate));
+      const vertexCountRows = await runDuckDB(`
 SELECT COUNT(*) AS vertex_count
 FROM read_csv('${verticesPath.replaceAll('\\', '/')}', delim='\t', header=false, columns={'id':'BIGINT','rev_domain':'VARCHAR','num_hosts':'BIGINT'})
 WHERE rev_domain = '${escapedCandidate}';
 `);
-    const vertexCount = Number.parseInt(vertexCountRows[0]?.vertex_count ?? '0', 10);
+      const vertexCount = Number.parseInt(vertexCountRows[0]?.vertex_count ?? '0', 10);
 
-    if (vertexCount > 0) {
-      matchedDomain = candidate;
-      if (candidate !== domain) {
-        log(`>> matched apex domain: ${candidate}`);
+      if (vertexCount > 0) {
+        matchedDomain = candidate;
+        if (candidate !== domain) {
+          log(`>> matched apex domain: ${candidate}`);
+        }
+        break;
       }
-      break;
     }
-  }
 
-  if (!matchedDomain) {
-    fail(`'${domain}' not found in the ${release} vertex file`);
-  }
+    if (!matchedDomain) {
+      process.stdout.write(`\n[${domain}] no match found in the ${release} vertex file\n`);
+      continue;
+    }
 
-  const escapedDomain = duckdbSqlEscape(reverseDomain(matchedDomain));
+    const escapedDomain = duckdbSqlEscape(reverseDomain(matchedDomain));
 
-  log(`>> querying backlinks for ${matchedDomain} ...`);
-  log('>> NOTE: first run scans a large gzipped edge file and may take several minutes');
+    log(`>> querying backlinks for ${matchedDomain} ...`);
+    log('>> NOTE: first run scans a large gzipped edge file and may take several minutes');
 
-  const resultRows = await runDuckDB(`
+    const resultRows = await runDuckDB(`
 WITH vertices AS (
   SELECT *
   FROM read_csv('${verticesPath.replaceAll('\\', '/')}', delim='\t', header=false, columns={'id':'BIGINT','rev_domain':'VARCHAR','num_hosts':'BIGINT'})
@@ -227,14 +233,17 @@ ORDER BY v.num_hosts DESC, linking_domain
 LIMIT ${topN};
 `);
 
-  if (resultRows.length === 0) {
-    process.stdout.write(`No backlinks found for ${domain}\n`);
-    return;
-  }
+    process.stdout.write(`\n[${domain}] results (${matchedDomain})\n`);
 
-  process.stdout.write('linking_domain,host_count,edge_count\n');
-  for (const row of resultRows) {
-    process.stdout.write(`${row.linking_domain},${row.host_count},${row.edge_count}\n`);
+    if (resultRows.length === 0) {
+      process.stdout.write('No backlinks found\n');
+      continue;
+    }
+
+    process.stdout.write('linking_domain,host_count,edge_count\n');
+    for (const row of resultRows) {
+      process.stdout.write(`${row.linking_domain},${row.host_count},${row.edge_count}\n`);
+    }
   }
 }
 
