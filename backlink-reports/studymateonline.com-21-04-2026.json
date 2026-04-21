@@ -1,0 +1,54 @@
+{
+  "requested_domain": "studymateonline.com",
+  "matched_domain": "studymateonline.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "iitr.ac.in",
+      "host_count": "184",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shine.com",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beegdirectory.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "justlink.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "relevantdirectory.biz",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ifidir.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lemon-directory.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "searchdomainhere.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "viesearch.com",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}
