@@ -1,0 +1,24 @@
+{
+  "requested_domain": "edzy.ai",
+  "matched_domain": "edzy.ai",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T04:31:13.514Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "party.biz",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "examresult.co.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gparashar.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}
