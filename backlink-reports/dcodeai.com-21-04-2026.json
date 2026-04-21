@@ -1,0 +1,29 @@
+{
+  "requested_domain": "dcodeai.com",
+  "matched_domain": "dcodeai.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "inc42.com",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "18startup.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theseobacklink.com",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}
