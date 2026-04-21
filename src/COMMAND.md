@@ -42,6 +42,7 @@ Behavior
 - Results are printed as CSV-like rows in the terminal, grouped by input domain.
 - If a domain is not found in the selected release, the CLI continues to the next domain instead of stopping the whole run.
 - A markdown report is written for each run under `backlink-reports/` in the repo root using the pattern `domain-DD-MM-YYYY.md`.
+- The report body is a markdown document with an embedded JSON block containing the request metadata and backlink rows.
 
 Output columns
 

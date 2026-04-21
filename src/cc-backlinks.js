@@ -60,20 +60,20 @@ const normalizeDomainCandidates = (value) => {
 };
 const sanitizeFileName = (value) => value.replace(/[^a-z0-9.-]+/gi, '_');
 const escapeMarkdownCell = (value) => String(value).replaceAll('|', '\\|').replaceAll('\n', ' ');
-const renderMarkdownTable = (rows) => {
-  const header = ['linking_domain', 'host_count', 'edge_count'];
-  const lines = [
-    `| ${header.join(' | ')} |`,
-    `| ${header.map(() => '---').join(' | ')} |`
-  ];
-
-  for (const row of rows) {
-    lines.push(`| ${escapeMarkdownCell(row.linking_domain)} | ${escapeMarkdownCell(row.host_count)} | ${escapeMarkdownCell(row.edge_count)} |`);
-  }
-
-  return lines.join('\n');
-};
 const renderReportMarkdown = ({ requestedDomain, matchedDomain, releaseName, queryDate, rows, noMatch }) => {
+  const payload = {
+    requested_domain: requestedDomain,
+    matched_domain: matchedDomain,
+    release: releaseName,
+    generated_on: queryDate,
+    no_match: noMatch,
+    backlinks: rows.map((row) => ({
+      linking_domain: row.linking_domain,
+      host_count: row.host_count,
+      edge_count: row.edge_count
+    }))
+  };
+
   const title = `Backlinks for ${requestedDomain}`;
   const sections = [
     `# ${title}`,
@@ -83,10 +83,14 @@ const renderReportMarkdown = ({ requestedDomain, matchedDomain, releaseName, que
     `- Release: ${releaseName}`,
     `- Generated on: ${queryDate}`,
     '',
-    noMatch ? 'No backlinks were found for this domain in the selected release.' : renderMarkdownTable(rows)
+    '```json',
+    JSON.stringify(payload, null, 2),
+    '```',
+    '',
+    noMatch ? 'No backlinks were found for this domain in the selected release.' : ''
   ];
 
-  return sections.join('\n');
+  return sections.filter(Boolean).join('\n');
 };
 
 const db = new duckdb.Database(':memory:');
