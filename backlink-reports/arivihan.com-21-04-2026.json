@@ -1,0 +1,159 @@
+{
+  "requested_domain": "arivihan.com",
+  "matched_domain": "arivihan.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "accel.com",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prosus.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "privatecircle.co",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whatplugin.ai",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ynos.in",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "failory.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theconsumervc.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "overbeta.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seedtoscale.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chiefaioffice.xyz",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llama.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shizune.co",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "businesshonor.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ciobulletin.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knowstartup.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techtost.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theindiabizz.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wext.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yashbharat.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eubusinessdaily.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jaibharatexpress.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobnow247.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kentuckydigitalnews.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "modernstartupindia.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "neclink.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newsofaustralia.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reviewstic.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "robo-gold.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startupwired.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thestorywatch.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

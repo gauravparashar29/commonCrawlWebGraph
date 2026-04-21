@@ -1,0 +1,3559 @@
+{
+  "requested_domain": "mockers.in",
+  "matched_domain": "mockers.in",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "wixsite.com",
+      "host_count": "479176",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "free.fr",
+      "host_count": "126657",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "doorkeeper.jp",
+      "host_count": "9714",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "readme.io",
+      "host_count": "5885",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "forumbb.ru",
+      "host_count": "4164",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uservoice.com",
+      "host_count": "2080",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fau.de",
+      "host_count": "1723",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hatena.ne.jp",
+      "host_count": "1373",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tau.ac.il",
+      "host_count": "1367",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hu-berlin.de",
+      "host_count": "1217",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "unc.edu.ar",
+      "host_count": "1023",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "phorum.pl",
+      "host_count": "999",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "activeboard.com",
+      "host_count": "982",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "intuit.com",
+      "host_count": "680",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uni-oldenburg.de",
+      "host_count": "642",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "viabloga.com",
+      "host_count": "541",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kaspersky.com",
+      "host_count": "301",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myreadyweb.com",
+      "host_count": "280",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linodeusercontent.com",
+      "host_count": "270",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "boardhost.com",
+      "host_count": "236",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hellobox.co",
+      "host_count": "188",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bravenet.com",
+      "host_count": "176",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kau.se",
+      "host_count": "157",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zeiss.com",
+      "host_count": "154",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edu.na",
+      "host_count": "141",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gbusiness.co",
+      "host_count": "130",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "binusian.org",
+      "host_count": "124",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iabc.com",
+      "host_count": "116",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "builderspot.com",
+      "host_count": "99",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uww.edu",
+      "host_count": "94",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "support-hub.io",
+      "host_count": "78",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "morgenpost.de",
+      "host_count": "61",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "campsite.bio",
+      "host_count": "56",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "namasha.com",
+      "host_count": "52",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teiemt.gr",
+      "host_count": "49",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "francite.com",
+      "host_count": "48",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mininuniver.ru",
+      "host_count": "48",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sosouthernsoundkits.com",
+      "host_count": "45",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "m5stack.com",
+      "host_count": "43",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thejobnetwork.com",
+      "host_count": "42",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "paheal.net",
+      "host_count": "41",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "koreaportal.com",
+      "host_count": "39",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "asp.net",
+      "host_count": "36",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "facts.net",
+      "host_count": "34",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uwu.ac.lk",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jatekok.hu",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gesoten.com",
+      "host_count": "24",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linkdata.org",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rimava.sk",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "charitywater.org",
+      "host_count": "22",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abcbookmarking.com",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kahi.in",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "musicstore.de",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heartmath.com",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elephantjournal.com",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kfimmigrationcanada.ca",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "skima.jp",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "t-firefly.com",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aapc.com",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smartholdem.io",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "robertsspaceindustries.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abes-dn.org.br",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ganjingworld.com",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woleet.io",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elma365.com",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jiva.org",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vseti.by",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "afa.co.rs",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aupairinamerica.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wtguru.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "albahiabeauty.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "delphiforums.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sparklit.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "swimisca.org",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aealearningonline.org",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "choq.be",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "howei.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kajgana.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "keenthemes.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "megamu.net",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "veidas.lt",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "charityvillage.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getmyuni.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "intensedebate.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "leadiq.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "itrosys.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nextart.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "programosy.pl",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vgnetwork.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "villa.org.pl",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "codefor.fr",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "drawspace.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "midi-mixer.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vroid.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wowonder.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cani.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mobafire.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "o-ki.co.jp",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rswebsols.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "swat-portal.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theprepared.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "writeupcafe.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "addictionpolicy.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "annelertoplandik.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "battlefield-inside.de",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bookmarksfocus.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "designdisease.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lilygo.cc",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mojaloop.io",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newwavemagazine.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "openrec.tv",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "outof.games",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rossmanngroup.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abracomex.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "awfwrestling.com.au",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "azeron.eu",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "behavioralhealthtech.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bibliotece.pl",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "biolife.com.my",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blogingers.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cbc.edu",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "countrythunder.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "daddycow.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "danabudeanu.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educainternet.es",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "equall.jp",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "everwide.com.tw",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "grepmed.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "informe21.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kartracing-pro.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "koeki-prj.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mric.mu",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "synergypartners.com.co",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "templateism.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thesocietypages.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "truongton.net",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vaada.org.au",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zenyzenam.cz",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "amsterdamsmartcity.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aussieairwing.com.au",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "baimless.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cscapna.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "desksnear.me",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dfwmas.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fairown.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fast-mag.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gogoa.eu",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gybn.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "humblec.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ibacommerce.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mychocolatesecrets.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peopletrainers.in",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "petale07.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "projectheena.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rcportal.sk",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "speakfreelee.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uscgq.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zybuluo.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abfsolutiongroup.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "azrockradio.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "barcelonadema-participa.cat",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bideew.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blog-directory.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brookstonechurch.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "clickadpost.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "coffeesix-store.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "crpsc.org.br",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "diamond-atelier.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dogwoodarts.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "drapsound.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dropboy.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "facetwig.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fastbookmarkings.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "foodmotionnetwork.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fueler.io",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greencarpetcleaningprescott.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hillmap.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "insta.tel",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jimmyhulas.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jksuperdrive.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobsinetfs.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jugrnaut.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "justiciaespacial.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kutambua.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maisonlarzul.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marcolopez.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marketapeel.agency",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mattsoncreative.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "menagerie.media",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nervedjsmixtapes.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ng.se",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nvre.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orusocial.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peoplespunditdaily.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pinkyparadise.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "purekonect.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reyatoy.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "schneckengruenes.de",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sedunia.me",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "slavyanski.net",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "svmeppen.de",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sylviabrowne.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tasaki.co.th",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "the-smile-project.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thehockeypaper.co.uk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theintegrativeconsciousvibe.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "totalmom.ca",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tudomuaban.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "we2chat.net",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whizolosophy.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woll2woll.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "worldvectorlogo.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yournewsfind.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "2bluegems.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "3dcftas.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "90grausescalada.com.br",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abccaringhomes.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abetoshiko.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abouthealthcarejobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aboutnurseassistantjobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abujacity.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "acetrainerau.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "acmilan.no",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "allclearautoglassdfw.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "amydarley.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "andersonjewelrystore.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "andremehmari.com.br",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "animeesports.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aramaki-clinic.jp",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "articleproductions.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "artofawakeningasia.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "artsballettheatre.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "asianclothes.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atii.com.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atlascorps.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atrevetesolo.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atticbrewing.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ausfaces.com.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "austincbdretailers.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "austinswobgyn.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "authoraevia.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "b-style-msc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "badebar.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "barracksrow.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bellarosebridal.biz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "belltime-coffee.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bestmiaminews.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "betapet.se",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "biomolecula.ru",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "biopage.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bipjacksonville.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bipjobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bipny.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bipphoenix.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bipsanfrancisco.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blankitinerary.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blcwh.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blueloonbakery.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bonback.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "boygeorgefever.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "braidbabes.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brandersmagazine.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brenkoweb.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brokenchainsincorporated.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bullspitrosin.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "businessnewsplace.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "byarcadia.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "c-re-aid.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "capitalsleepcenter.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "careerplanb.co",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chevra.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cicakutyaagy.hu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "claredegraaf.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "classiccakes.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cleansavannah.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "clsng.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cobler.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "coralgablesdentallab.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cotswoldscamping.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "covoare-profesionale.ro",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cqcinvestigations.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "creeksidemarketandtap.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "crextio.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "crossroadsbaitandtackle.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "culture-informatique.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cycle-route.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "daily-affair.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dante.org.nz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dawlish.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "day8.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "deltaking.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "demcra.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "designingbuildings.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dideadesign.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "digicircle.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "diversityjobboard.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "diwa.ph",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dmvbrw.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dougduren.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dramatak.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "drfedorenko.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "earth2her.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "earthpeopletechnology.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elartefrances.com.mx",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elinamirkin.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elizabethguarino.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eriderbikes.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eumotus.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "excellence-operationnelle.tv",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eyalsflowers.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "facultybrewing.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fatherbroom.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fliist.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fliparticle.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "forthworth24.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fourseasonsdance.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "foxandsonphilly.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "freediving-club.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "freedomteamapexmarketinggroup.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "friendlycentertoledo.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fritzlerfarmpark.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fundingreach.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "furryinvasion.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gardenheights.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gemsinthegym.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "georgetownpharmacy.com.my",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "georginagabriel.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "giovanniporzio.it",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "globalfreetalk.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goldcoastrailroadmuseum.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goldenbellstudios.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gozambiajobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "growinghappy.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gthaloexpress.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "guestpost.com.pk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "guidereality.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hakshackwoodworks.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hamiltonparks.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hanaromartonline.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hanhezy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hbshaveice.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hcccar.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "headlandalabama.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "headless-cross.ch",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "healthmagazine.ae",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hedleyroberts.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hellobiz.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "helpingshepherdsofeverycolor.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heritageprairiefarm.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hiddenbridgegolf.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hiddenpeakteahouse.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "highdesertgems.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hilbreisland.info",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ibmmainframer.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "igli.me",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ikengineering.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "imagineyounew.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "imeresthalassas.gr",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inaap.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "intuitiveinsightsmassage.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "issabucket.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iwra.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iztoner.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jamaicamihungry.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jataya.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jerseyboysblog.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jimadamsdesign.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jimufukushop.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jinritongbai.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jk-green.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jmriascos.space",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jungletacticalsolutions.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jwlconstruction.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kathleenmeehanrd.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kettler.ro",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kinetic-chiro.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knockoutmsfoundation.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "koolvibesphotostudio.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kufunda.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "laracmakeup.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lebazardalison.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "legacygcc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "letyoursparkleshinebrightly.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lftherapies.fr",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "libertylinkfoundation360.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "life-outside.store",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "livingcolorsalon.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "longpath.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lumikai.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mais-web.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maketheroadpa.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mamaganache.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "megavalanchetrail.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "meijicuisine.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mexicanmadness.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "michellekennedyhairco.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "milliescentedrocks.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mingomakesit.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "modelshipwrights.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "moonlaneink.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "musthavemom.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myburgh.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mycampusgps.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myfox23.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mysportsgo.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "natthadon-sanengineering.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newgenstravel.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nmgs.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nonviolenceny.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "northeasterncustomhomes.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nossoipanema.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nutrociencia.com.br",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nxtlvlscouts.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nyimapinvasives.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oeisweb.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ohts.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oldfield.com.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ondiscord.xyz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "organizatiaemma.ro",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orpheusmusicaltheatre.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "otthoni-munka-penzkereset.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "outdoorasian.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "outfo-production.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "overlypost.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "panwarsproductions.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "paramedicine.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peaksholdingsllc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "performalita.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peterpestcontrol.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "philadelphialivenews.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pho-thong.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "phunkphenomenon.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pizzaacademy.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "plantogether.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "playingwithsuperpower.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pnwarachnids.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pocahontaslibrary.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "popupcarshows.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "postfreeadvertising.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "postfreeclassifiedads.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prbusinesswires.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prosa-schule.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psjc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psynsk.ru",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "qheemrealty.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "qtum.or.kr",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "queentributeuk.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "questionstation.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "quickpostads.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rachelmcmillan.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rainbowbeautystores.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rakuya.asia",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reactivept.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "realestateinvesting.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "redwolf.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rimagemarket.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rnexecutives.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "robusttechhouse.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rodneyscyclehouse.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "romaaffitto.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "roswellhistoricalsociety.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "roton.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "royalandwealth.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rslwaste.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "s-white.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sacjobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sacramentonewspost.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sacredearthmusic.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "saintlukechurch.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "salsaformula.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sarkaririsults.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scooparticle.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scratchbeer.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sekarswiss.ch",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "selfstudys.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shadowcarders.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shandonhats.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "siksakul.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "simplexthailand.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sipshopeat.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smart-art.london",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "snippet.host",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "songofthewood.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sovranoestate.co.nz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spectral.ro",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spgrrok.catholic.edu.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sporeslab.io",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "springriverschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spyuganda.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stepfamilynetwork.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stmarkna.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "studiopress.community",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "styleherempowered.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sublimeescapes.co",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "suenostulum.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sunlitcentrekenya.co.ke",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "svenssonstiftelsen.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sweepracing.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tai-ji.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tak-thaimassage.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tamezret.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techners.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thecounselingcenter.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thedesignosaur.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thefebruaryfox.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thefreshstarthub.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thegreatcatsbycattery.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thehudsonoven.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "themeparktycoon2.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theomnibuzz.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thepetservicesweb.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thepropertybull.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theseobacklink.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thetulsatimes.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thevalleyrvparkr01.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thewaxpot.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thitrungruangclinic.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tiffoda.mk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tigerhospitality.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tinylions.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tobaccofarmlifemuseum.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "todaygh.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tokaisawthailand.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "trailduro.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tricitiestnelectrician.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ttlxshipping.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ubcmorrilton.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "udrpsearch.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uesugitakashi.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ukiyoto.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ultra-marin.fr",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "unichesalon.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "updownradar.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "urbanyogini.ee",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uuum.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "varunagarwal.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "verdoos.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vhs80.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "viajerosonline.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vinamericas.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "virtualcheeseawards.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vladeguigni.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "voeaglerock.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "volatile.it",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "warriorsinc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "washingtonnewsalert.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "water2winecruises.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webdirex.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whatiswhatis.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whoosmind.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wildboyadventures.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wlssa.org.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wmasg.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wonderpawspetspa.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "workingtontowncouncil.gov.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "worlds-directory.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wuhub.id",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wundergartendc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wyoming.gop",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "xcion.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yesflowers.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yogafacespa.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yoursites.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "6directions.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aajkaltrends.club",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aboutdirectorofnursingjobs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aboutmedicalassistantjobs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aboutnursinghomejobs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aboutpharmacistjobs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aclovestreetdecals.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "acostattoo.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "afpol.biz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "airworldmuseum.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alivechrist.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "altinsafran.org.tr",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aminaalnajdi.art",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anchorofhopecogic.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ardeanconsulting.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "attstraining.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "azadcomputers.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "baddiehub.pics",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bam-hair.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "baseballglove.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blessin.info",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blogtheday.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "branchriverair.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brighteyes.info",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "camdencs.org.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "campsite.to",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "clickpackmove.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "club80sbar.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "colored.club",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "coolstuff49ja.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "corptocorp.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cosp24.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "daantonio.co.kr",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dailymocktest.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "decobry.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "drumstation.mx",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "entranet.com.br",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "errorexpress.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "euromediawire.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "expressy.co.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fairmontfarminc.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "farmaciascarimas.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "firstamericansecurity.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flexcareers.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flothroo.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fochtlaw.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "formamentis.ch",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fotografidimatrimonioroma.it",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fri3nd.me",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fukadamoet.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "funintheskies.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "g23lcs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gedikianenterprises.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "georgeryansalon.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "georiders.ge",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gobesociety.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gocoax.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goodandbadpeople.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greatrebuild.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hair-identity.sg",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "harmonyhearingcare.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "healwithmagick.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heirloommke.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heroathletes.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hombresphl.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "horowhenuarowing.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hostndobezi.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "htdress.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "idnow.info",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ikraupvc.co.id",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "indianjadibooti.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iretiredyoung.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobs-for-all.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobwalaladka.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joyaonsencafe.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "k-kasagi.jp",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kiosksocial.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kousien.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kumaonkhand.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "laidlawpsych.ca",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lamaisonplume.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "legumestranslated.eu",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "likeminds.fun",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "louvain.ca",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "m9gc.solutions",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maridan.fr",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marqueritastory.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marugin-s.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mckenziestottcreative.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "motsukichi-shibuya.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "multino.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "musings-head-heart.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myintronetwork.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myjobspace.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "naruse-bee.jp",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nationalcathedralghana.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "netizensgalaxy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nftscreen.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nosso-lar.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "officinestorichenapoletane.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ogi-tools.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "outlawed.ink",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pencraftednews.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "postingblog.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pulque.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "racks4reptiles.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "recoveryblvd.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "repli.online",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "revistaveredas.com.br",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reyabike.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rivercc.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scanliving.com.tw",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sdelkite.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seoagncy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shivark.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sisgroup.lk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smilethaihealthspa.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "southshieldsdogtrainer.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spicehousenj.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sportpharmacology.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ssashram.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sunriseshackhawaii.jp",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sweetmagnoliascancercarefoundation.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sweetsavorycandlesandbodycare.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "swstore.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sysmansolution.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tagintime.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tagraedu.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "telodosocial.it",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tenergybattery.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "test4fit.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thenash.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thepincodeindia.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thequitegreatradioshow.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tiaradominique.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tribehotyoga.guru",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "upuge.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uqboxing.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vibepoweryoga.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "visitorsfleamarket.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "voixdejeunesfemmes.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webdirectory11.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "weeblyblog.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "welovedelta.ca",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wingsandtailsexoticwildlife.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "xuzpost.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zenders.nz",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

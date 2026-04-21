@@ -1,0 +1,234 @@
+{
+  "requested_domain": "studdy.ai",
+  "matched_domain": "studdy.ai",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "ycombinator.com",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "exa.ai",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "genai.works",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lore.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "harmonic.ai",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tamento.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thinkwell.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "extruct.ai",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gptaiflow.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "magdyman.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mo3asron.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bilarna.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "superpowerdaily.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "akii.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alles-ki.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chatsheet.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aihuntlist.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "airabbit.blog",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitooltrek.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitoolzdir.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dir2ai.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mohamedansary.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "neerventurepartners.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "novatools.cn",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "quizcat.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "studdyai.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "technoclash.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "veryseriousventures.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vivevirtual.es",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "askaiforit.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "babaluum.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fanrenai.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "featuredaitools.ai",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fullstackai.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hopemyers.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iaoutilspro.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iapedia.online",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maioraventures.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newliteracies.ai",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pivots.fyi",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "riseofmachine.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tophubai.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tyy.ai",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "volpiniventures.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whatisthat.ai",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

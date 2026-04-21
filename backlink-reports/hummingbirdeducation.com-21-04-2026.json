@@ -1,0 +1,44 @@
+{
+  "requested_domain": "hummingbirdeducation.com",
+  "matched_domain": "hummingbirdeducation.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "financialexpress.com",
+      "host_count": "37",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sochisirius.ru",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "remotehub.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "indianonlineschool.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bullrun.co.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "olympiads.co.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scholarshipbuddyhub.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

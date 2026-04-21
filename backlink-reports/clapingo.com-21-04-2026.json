@@ -1,0 +1,284 @@
+{
+  "requested_domain": "clapingo.com",
+  "matched_domain": "clapingo.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "dhl.com",
+      "host_count": "220",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elprat.cat",
+      "host_count": "43",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "superblog.cloud",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "minwt.com",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hasgeek.com",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "holoniq.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kr-asia.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ila.edu.vn",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gomega.ai",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "herkey.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linkcentre.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ynos.in",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cuelinks.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "paxholley.net",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "remoteok.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "giveabook.org.uk",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wethrift.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blog-directory.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cogniter.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "evermade.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fundediq.co",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shizune.co",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "taazatadka.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tunisiainvestmentforum.tn",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bethanne.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cdj-bouffort.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "comprenders.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "couponappa.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "directorysiteslist.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "englishproject.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "foundthejob.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linkddl.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "microlinkinc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pwnagetech.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shinebritezamorano.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startupsprouts.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "viestories.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zinglanguages.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alfanalabyad.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "americanworthy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "contohtext.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "earningkart.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "entranet.com.br",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fieldsofstudybookshop.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heyitsrj.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "homeupgradepros.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobsforcommerce.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sisgroup.lk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spandan.dev",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ssashram.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startup77.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "supergirosguajiranorte.com.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thedomesticcurator.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "unicademy.site",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whatdoesmeanings.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

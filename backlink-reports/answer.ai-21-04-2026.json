@@ -1,0 +1,1814 @@
+{
+  "requested_domain": "answer.ai",
+  "matched_domain": "answer.ai",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "blogspot.com",
+      "host_count": "4246764",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "github.io",
+      "host_count": "284009",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "substack.com",
+      "host_count": "199844",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "buzzsprout.com",
+      "host_count": "19350",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "it.com",
+      "host_count": "14100",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beehiiv.com",
+      "host_count": "9673",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ddns.net",
+      "host_count": "7170",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "github.com",
+      "host_count": "6038",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "railway.app",
+      "host_count": "3282",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fastly.net",
+      "host_count": "1026",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nvidia.com",
+      "host_count": "385",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mu.nu",
+      "host_count": "369",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "unu.edu",
+      "host_count": "174",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linuxfoundation.org",
+      "host_count": "158",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "unica.vn",
+      "host_count": "121",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inblog.ai",
+      "host_count": "115",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cloudron.io",
+      "host_count": "67",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ideo.com",
+      "host_count": "50",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webdirections.org",
+      "host_count": "47",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ros.org",
+      "host_count": "42",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "keurigonline.nl",
+      "host_count": "36",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fast.ai",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "huggingface.co",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "madrimasd.org",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nvidia.cn",
+      "host_count": "25",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reason.com",
+      "host_count": "22",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "deeplearning.ai",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "benetou.fr",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "relevanceai.com",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "searchenginejournal.com",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theregister.com",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "everypixel.com",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "digitalsamba.com",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "futurism.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mintlify.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vespa.ai",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "readwise.io",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "simonwillison.net",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zenml.io",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "towardsai.net",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kode24.no",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lighton.ai",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "together.ai",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lesswrong.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pla.sh",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "qase.io",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "talkpython.fm",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tryprofound.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "buttondown.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maven.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "transloadit.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goodrebels.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myxuebi.top",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "s-anand.net",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yiguotech.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "80000hours.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bito.ai",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "preferred.jp",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "replicate.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "research.google",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "contrary.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fiftyfiveandfive.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gpters.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hyperwriteai.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nibbles.dev",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seomator.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iptek.web.id",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "itpro.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pemavor.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rootsofprogress.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stanventures.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "visitoai.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yusufipek.me",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zerotomastery.io",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bolt.fun",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hada.io",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lastmileai.dev",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "listening.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mobiuslabs.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seahawkmedia.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stacker.news",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tuurbo.ai",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whatplugin.ai",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chakra.dev",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flexiblefunctions.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getcoai.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linkup.so",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "runllm.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shaneng.net",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thoughtstorms.info",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "upmarket.co",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "withdaydream.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "airstreet.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dailygeekshow.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ericbrown.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fastht.ml",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "feldroy.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greaterwrong.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ithelps-digital.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mechanical-orchard.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "patently.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "quaily.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "skylineacademic.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "speakerdeck.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "agendadigitale.eu",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "automatikarobotics.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "benjaminwarner.dev",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brunosan.eu",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "daemonology.net",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dataminingapps.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "datanalytics.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "decibel.vc",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dev5310.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fastai.net.cn",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getsalt.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hamel.dev",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "henrydashwood.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inchoo.net",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jendrikillner.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joshwcomeau.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kaorubb.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kdjingpai.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marketingaiinstitute.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mocoso.co.uk",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "monitaur.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "morerss.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "planetachatbot.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rasulkireev.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "semly.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smol.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sonalake.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "superpowerdaily.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thedeepview.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thorstenball.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "threadreaderapp.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "turboseotools.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vectorchord.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "viden.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "visiongeek.io",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "xiejingyang.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zenn.dev",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "adsp.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alldevblogs.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "allmo.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alteredcraft.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "baoyu.io",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bcskill.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "binary-systems.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bioprovement.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brisbaneagency.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "developer-world.de",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ekino.fr",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "envisioning.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hall4bc04.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "interconnects.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "intermajor.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ivanleo.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "khangnguyen.me",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knightcolumbia.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lead-gen.team",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "louisbouchard.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "madebyunderscore.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mh4gf.dev",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mozilla.vc",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nonbot.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pvsm.ru",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pythonweekly.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "redseo.io",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sophiate.co.jp",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "the-decoder.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "towardsagi.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vllm.com.cn",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webthunder.io",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "xfunnel.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aayushmnit.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "afaik.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aiaaic.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aicouncil.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aigeekly.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aipeanuts.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "akankshasaxena.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alexisgallagher.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ashwinjayaprakash.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "axolotl.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "belkinmarketing.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bellwether.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bendavakan.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bigdatanewsweekly.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blakfy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "booboone.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cautiousoptimism.news",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chipstrat.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "clavie.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cleverhack.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "computer-technologies.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "craftbyzen.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "creativemotions.it",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cultheater.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "danliden.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "danmackinlay.name",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "datasciencebulletin.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ded.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "devshorts.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dou.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "doumani.gr",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elite-ai-assisted-coding.dev",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "emsi.me",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "exobrain.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fromthenew.world",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "generativeengineoptimized.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "genloop.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "geolambda.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hannay.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hntoplinks.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ignorance.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "imagiroom.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "impactnews24.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "insideview.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "italodr.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jc.tt",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kadh.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kamiljozwik.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "katinamagazine.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kenneth.io",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "latent.space",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lawfaremedia.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llmstxt.cloud",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llmstxt.site",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llmstxthub.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "localangle.co",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "magroup.pk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "managerphd.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marketingillumination.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "martin-moeller.biz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mecagoenlos.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mediareach.co.jp",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "meditationsontech.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "michaeltefula.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mikelev.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mostol.dev",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nexaflow.io",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nisys.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "normaltech.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nowadais.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "omergulcicek.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "philipzucker.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "philschmid.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "postd.cc",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pythondigest.ru",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "quintadascarpas.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ramisayar.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rankingfusions.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rentry.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rsrch.space",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "runcrate.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "secondrenaissance.now",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "semanlink.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shunku.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shxcj.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "strangeloopcanon.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sublink.app",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "supertechfans.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tatech.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tczhong.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thealgorithmicbridge.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theunwindai.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thinkdmg.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thursdai.news",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "turingpost.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "useaihub.tech",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "visoft.ro",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vllm-semantic-router.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vtecz.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vvne.nl",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wersdoerfer.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "westinlee.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yabs.io",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aeoradar.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ai-news.club",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aidful.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ainews247.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aisparkup.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitrendee.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "angelkawaii.xyz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "asselinpaul.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "backlinkmatik.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "biilmann.blog",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cloudwirehub.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "code011.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "codetomarket.fm",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "codingwithintelligence.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "consultor365.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cyberalchimista.it",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "danielvanstrien.xyz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "daniilak.ru",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "englishyousef.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "enoumen.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fangd123.cn",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "freaktakes.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gdarruda.me",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "globalcybersecurityreport.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goldenpython.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hackertalks.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hamaruki.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hartleyshandbook.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hellohitech.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hnhub.dev",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "homelandsecurityreview.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "homescreen.news",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "invernessdesignstudio.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ioupdate.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "itnest.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "johnowhitaker.dev",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kareemai.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ksdtu.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lemmybefree.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linksfor.dev",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llms-txt.io",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llmstxt-check.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llmstxtchecker.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "luisignaciosan.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marketing.no",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marketingnewswired.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "monicaspisar.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newsofaustralia.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nohackspod.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "norwood-grand-condo.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oknius.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "patrick.direct",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pcmagz.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pokeoasismmo.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pythonhub.dev",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "quantumquilldigital.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rensdimmendaal.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "respectexperts.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rpreswick.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "s-propertymaroc.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "safeai.news",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scalemath.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sdf-kh.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seo-aspirant.ru",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seoandmarketing.it",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seolives.io",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "singularityfeed.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "socialsignalcounter.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techiespedia.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theverysoon.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tldrsec.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tomcw.xyz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "topnews.day",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "treanor.dev",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "turingpost.co.kr",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "umlcert.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vighneshiyer.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vikas.sh",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vuink.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webidextrous.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webscraft.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "weitmark.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wilsoniumite.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ztec100.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

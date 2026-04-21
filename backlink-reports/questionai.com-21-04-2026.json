@@ -1,0 +1,974 @@
+{
+  "requested_domain": "questionai.com",
+  "matched_domain": "questionai.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "google.com",
+      "host_count": "41269",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "azurewebsites.net",
+      "host_count": "30616",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wikipedia.org",
+      "host_count": "2276",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "metapress.com",
+      "host_count": "155",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edu.co.bz",
+      "host_count": "50",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "adapty.io",
+      "host_count": "27",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "norml.org",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tu.tv",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aigc.cn",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "midteknologi.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blaze.today",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aifire.co",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitoolhouse.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blockchain.news",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shijuezu.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fahimai.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jcq.org.uk",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mycugb.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "apkmirror.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "champsignal.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kdjingpai.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orwellianmathproject.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aiagc.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aipedias.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "assignmentgpt.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "basedtools.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brouseai.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "esad.edu.br",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "loquesigue.tv",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mirrorsite.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "monografo.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nrcfkenya.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nyhetsspeilet.no",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "parentingvista.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pro21st.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sayhi2.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "toolkitly.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wedigitalcare.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aavotcom.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abdellatifturf.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aiapptools.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitools.xyz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitoolsforbest.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitoolzi.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aizujian.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "akusatu.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anationofmoms.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "animeinformer.co",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "appscribed.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ayogreen.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "backyardgardenlover.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ballinasoccer.com.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "birthstones.guru",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bookslut.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "businessnewstips.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "casoriambiente.it",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cgherbs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "culturacastrena.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "digitalstudyadda.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtechist.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtechmarketplace-asia.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educationbeing.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educatorstechnology.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elevatedmagazines.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "essentiallast.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "florsheimmansion.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "futureforgez.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gim-kit.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gyanpoints.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iforai.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ir-press.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ithy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kav.edu.vn",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knowledgemandi.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knowledgesutra.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mademathika.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathgames67.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mediapustaka.id",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mike.gold",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "miltonkeynesgospelradio.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "moskito-wuerger.ch",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mybesh.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "navtools.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "networkustad.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onlign-lab.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "openpedia.io",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "readmcqs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "residencestyle.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "safetyproductsmfg.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scifocus.ai",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "solutionhow.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stephilareine.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "suaritma.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "submitaitools.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "taftindependent.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "taskvirtual.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thebraggingmommy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theinsaneapp.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thenoobgamerz.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theqtree.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thesoundstourcom.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uneiaparjour.fr",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "11gol.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "agiyes.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aigcrank.cn",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitechfy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitoolspy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "allureweek.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ancientcivilizationsworld.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "android-zone.ws",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "arcenturf.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "assignmentgpt.io",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "behinbanoo.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bestaito.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bethesdamissiontrust.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bollybio.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "canadadiaries.ca",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "celerealname.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "charmfulnames.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cify.info",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "copyenglish.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "crispme.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "crystalsvista.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dailyflares.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "designtechsolutions.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "directorioia.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ekklesiaonline.la",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "endemic.pro",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "endoclinicas.com.ar",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "englishlush.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "extential.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fanana.io",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fanrenai.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flaremagazine.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fluidvital.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fobsourcify.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gjcollegebihta.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "grammarvista.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greaterhopecharitabletrust.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "guicloud.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "homeworkify.bio",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "howinsights.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inteligenciaartificialia.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "invidiatamagazine.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "istudyinfo.info",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jatelo.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "koiusa.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "landscapingbuysell.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "learninger.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "londondiary.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marketcatalogs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mediaadvicetraining.africa",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "misty-severi.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrcaptions.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrlitterbox.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mumbaispecialityclinic.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myflexbot.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mynsu.info",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "painschool.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "playlite.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "profit-group.com.ua",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "projectpedia.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prowriter.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "qke.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "questionai.ru",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "radostville.ru",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ramex.ba",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reclinersresty.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reviewdiv.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sarkariujalaa.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scrollblogs.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "silverklique.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stronghousebrewery.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "studentsroom.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "studybarta24.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "talkslikeme.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techcooper.de",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techidology.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techiqcandle.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techktimes.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techputs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "textspell.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theaipedia.io",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theskinvitaclinic.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "todayinsightnews.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vavoza.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vuink.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wanderersblog.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "warnafishfarm.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wokushop.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "xunroll.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yourstudyblog.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zurechnungszeit.de",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

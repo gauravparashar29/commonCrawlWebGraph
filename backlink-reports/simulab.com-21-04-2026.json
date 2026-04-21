@@ -1,0 +1,419 @@
+{
+  "requested_domain": "simulab.com",
+  "matched_domain": "simulab.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "blogspot.com",
+      "host_count": "4246764",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stanford.edu",
+      "host_count": "8469",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hautetfort.com",
+      "host_count": "6131",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ucdavis.edu",
+      "host_count": "4017",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "columbia.edu",
+      "host_count": "3417",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wikipedia.org",
+      "host_count": "2276",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uic.edu",
+      "host_count": "2160",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "virginia.edu",
+      "host_count": "2006",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "unige.it",
+      "host_count": "906",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "odu.edu",
+      "host_count": "285",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cmich.edu",
+      "host_count": "281",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "howstuffworks.com",
+      "host_count": "100",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ansys.com",
+      "host_count": "97",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "augusta.edu",
+      "host_count": "93",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peta.org",
+      "host_count": "67",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hamad.qa",
+      "host_count": "46",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atriumhealth.org",
+      "host_count": "24",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "biospace.com",
+      "host_count": "22",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ahn.org",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tauli.cat",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pcrm.org",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sls.org",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fourwaves.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "traumanurses.org",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inm-online.de",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pano.pl.ua",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "simzine.news",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "straitsresearch.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "transcend.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "animalalliance.ca",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scienceblogs.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ssih.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "survivaltechnology.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "animalstoday.nl",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "camcmedicine.edu",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "emac.it",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nezumi.info",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "precedenceresearch.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "satis-tierrechte.de",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sesam-web.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "singhealthdukenus.com.sg",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "southernbiological.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "acepnow.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anditecnica.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "antidote-europe.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "arcstsa.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atomicdl.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bmec.asia",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "denebcorp.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eldan.biz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fredashedu.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "growjo.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gulfcareers.ae",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "imsh2025.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kdglifescience.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lifesim.ro",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "medicalsimulator.ro",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mednics.co.kr",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nat-database.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nat-datenbank.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nysimcenter.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "precizionproducts.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "renalfellow.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "respectfulinsolence.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "simcoimbra.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "simulationcanada.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "skills-med.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thesimtech.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "towardshealthcare.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tylerhartley.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ugursaglik.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yammiesglutenfreedom.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "danieletdenise-stjean.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "emdservices.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "medisimulation.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "medsim.bg",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "melissaeastondesign.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mermedical.ee",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ncwsma.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pick4d.live",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "simannu.it",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "themedicalpractice.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

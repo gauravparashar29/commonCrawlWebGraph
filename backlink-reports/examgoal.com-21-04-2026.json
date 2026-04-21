@@ -1,0 +1,14 @@
+{
+  "requested_domain": "examgoal.com",
+  "matched_domain": "examgoal.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "webcatalog.io",
+      "host_count": "13",
+      "edge_count": "1"
+    }
+  ]
+}

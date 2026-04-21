@@ -1,0 +1,44 @@
+{
+  "requested_domain": "robokart.com",
+  "matched_domain": "robokart.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "hyundaithudo.com.vn",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "trybotics.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chanelbanten.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "missionescaperooms.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oldpcgaming.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ovenlybakesncakes.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vizmohanan.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

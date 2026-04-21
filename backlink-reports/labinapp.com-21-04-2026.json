@@ -1,0 +1,44 @@
+{
+  "requested_domain": "labinapp.com",
+  "matched_domain": "labinapp.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "amazonaws.com",
+      "host_count": "186147",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "capria.vc",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dnbolt.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "effecthub.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "indianstartupnews.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startupill.com",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}

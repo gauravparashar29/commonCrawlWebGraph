@@ -1,0 +1,69 @@
+{
+  "requested_domain": "ifda.ai",
+  "matched_domain": "ifda.ai",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "mr-marketing.co.uk",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "standev.nl",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stackgo.io",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "99pt5.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bluecollarjobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ifda.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "languagesunlimited.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "plumbingjobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sureshot.video",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wilcowebservices.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "apexworkwear.ca",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "training-central.net",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

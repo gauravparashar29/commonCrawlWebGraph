@@ -1,0 +1,69 @@
+{
+  "requested_domain": "athenaeducation.co.in",
+  "matched_domain": "athenaeducation.co.in",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "indiatimes.com",
+      "host_count": "735",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "propublica.org",
+      "host_count": "43",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "projectboard.world",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "trak.in",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "exunclan.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thebrandbee.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "digitalmarketingdeal.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tbcy.in",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nriaffairs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "afbf.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cryptichunt.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "innosphere.info",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

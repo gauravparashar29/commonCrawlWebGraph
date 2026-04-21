@@ -1,0 +1,14 @@
+{
+  "requested_domain": "studyspace.ai",
+  "matched_domain": "studyspace.ai",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T13:48:18.868Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "useaihub.tech",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}
