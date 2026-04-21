@@ -1,0 +1,179 @@
+{
+  "requested_domain": "campk12.com",
+  "matched_domain": "campk12.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "amazonaws.com",
+      "host_count": "186147",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "netlify.app",
+      "host_count": "80644",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iiitd.ac.in",
+      "host_count": "50",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "leadsquared.com",
+      "host_count": "49",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "qs.com",
+      "host_count": "31",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cutshort.io",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tryengineering.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "herkey.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thejournal.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "engati.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reillusions.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "z47.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ajuniorvc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "awesomeatyourjob.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.asia",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "confusedparent.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "global-edtech.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "invc.news",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iosignite.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobshuntindia.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "minimoo.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mumbainewswire.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "parikshitkhanna.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "republicbusiness.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startupill.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techphlie.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zeek.studio",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anshulbhagi.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "appedus.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bloggersinsights.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "historytoknow.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sharingourexperiences.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "unifiedplatforms.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

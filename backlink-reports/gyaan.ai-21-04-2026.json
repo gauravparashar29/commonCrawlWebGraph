@@ -1,0 +1,84 @@
+{
+  "requested_domain": "gyaan.ai",
+  "matched_domain": "gyaan.ai",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "hubspot.com",
+      "host_count": "574",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uplers.com",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "capchase.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "influencermarketinghub.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "1up.ai",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dialzara.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "promptloop.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getmaxiq.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "honadi.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "salesforcesearch.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stackoptimise.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "salestoolsai.top",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "arrowhead-partners.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gtmwithai.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "samanthabrandon.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "requested_domain": "imustudy.com",
+  "matched_domain": "imustudy.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "planet.horse",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-seo-eastvale.space",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-seo-fairview.space",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cacaolandbmt.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dskogsphoto.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fivestarhomesandconstruction.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sisgroup.lk",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

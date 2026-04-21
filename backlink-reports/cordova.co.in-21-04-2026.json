@@ -1,0 +1,29 @@
+{
+  "requested_domain": "cordova.co.in",
+  "matched_domain": "cordova.co.in",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "uregina.ca",
+      "host_count": "176",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sequone.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shivampublication.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kristurajapublicschool.in",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

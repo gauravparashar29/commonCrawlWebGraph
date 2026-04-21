@@ -1,0 +1,34 @@
+{
+  "requested_domain": "picanswer.ai",
+  "matched_domain": "picanswer.ai",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "ycoproductions.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "codinhex.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "info-hub.co.za",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llmse.ai",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "u4success.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

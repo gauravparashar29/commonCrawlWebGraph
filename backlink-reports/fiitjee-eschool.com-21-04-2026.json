@@ -1,0 +1,14 @@
+{
+  "requested_domain": "fiitjee-eschool.com",
+  "matched_domain": "fiitjee-eschool.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "education21.in",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "requested_domain": "skilledsapiens.com",
+  "matched_domain": "skilledsapiens.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "freemyip.com",
+      "host_count": "68",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uplers.com",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hurrycurry.cz",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alvronpartners.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

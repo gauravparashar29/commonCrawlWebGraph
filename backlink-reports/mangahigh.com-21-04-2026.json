@@ -1,0 +1,2484 @@
+{
+  "requested_domain": "mangahigh.com",
+  "matched_domain": "mangahigh.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "blogspot.com",
+      "host_count": "4246764",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "weebly.com",
+      "host_count": "562881",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.com",
+      "host_count": "41269",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edublogs.org",
+      "host_count": "31601",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pbworks.com",
+      "host_count": "12406",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sch.gr",
+      "host_count": "6313",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "illinois.edu",
+      "host_count": "5125",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uk.net",
+      "host_count": "4424",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ox.ac.uk",
+      "host_count": "4169",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "memberclicks.net",
+      "host_count": "2636",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greenhousecms.co.uk",
+      "host_count": "2195",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cmu.edu",
+      "host_count": "1923",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yurls.net",
+      "host_count": "1757",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jcyl.es",
+      "host_count": "1413",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kyschools.us",
+      "host_count": "1089",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ilsole24ore.com",
+      "host_count": "793",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kth.se",
+      "host_count": "666",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wikibooks.org",
+      "host_count": "577",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uvm.edu",
+      "host_count": "443",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ul.ie",
+      "host_count": "246",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spps.org",
+      "host_count": "209",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eurekster.com",
+      "host_count": "189",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educacao.sp.gov.br",
+      "host_count": "181",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vsb.bc.ca",
+      "host_count": "164",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fcps.net",
+      "host_count": "151",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "care.com",
+      "host_count": "143",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "math.ca",
+      "host_count": "137",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "madeira.gov.pt",
+      "host_count": "116",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "washoeschools.net",
+      "host_count": "116",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ousd.org",
+      "host_count": "106",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "westlothian.org.uk",
+      "host_count": "96",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dearbornschools.org",
+      "host_count": "81",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ashanet.org",
+      "host_count": "74",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "opovo.com.br",
+      "host_count": "74",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dudley.gov.uk",
+      "host_count": "73",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pvusd.net",
+      "host_count": "72",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "southampton.ac.uk",
+      "host_count": "72",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kqed.org",
+      "host_count": "71",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "henry.k12.ga.us",
+      "host_count": "67",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sfusd.edu",
+      "host_count": "57",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shetland.co.uk",
+      "host_count": "54",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edweek.org",
+      "host_count": "50",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "galileo.edu",
+      "host_count": "46",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wels.net",
+      "host_count": "44",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techsurgeons.com",
+      "host_count": "41",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "portaldaindustria.com.br",
+      "host_count": "40",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "geogebra.org",
+      "host_count": "37",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lowell.k12.ma.us",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pearltrees.com",
+      "host_count": "34",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smashingmagazine.com",
+      "host_count": "34",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maths.org",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vicensvives.com",
+      "host_count": "32",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newtoncountyschools.org",
+      "host_count": "29",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nesta.org.uk",
+      "host_count": "28",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kledu.vn.ua",
+      "host_count": "27",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "diigo.com",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edsurge.com",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rb.ru",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webbyawards.com",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cheviotlt.co.uk",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kearneypublicschools.org",
+      "host_count": "22",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flaschools.org",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "paps.net",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "glowscotland.org.uk",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ecoesc.org",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "great.gov.uk",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orange.k12.nj.us",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fenews.co.uk",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "canoncityschools.org",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edutopia.org",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "southeastern.edu",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pcu.edu.ph",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "embracemat.org",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "weareteachers.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dyscalculiaservices.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "e2.com.vn",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alphaacademiestrust.co.uk",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blogthinkbig.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cmpso.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "drohobych.net",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "surfnetkids.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techlearning.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wallbuilders.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ideafamilies.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nlsd.k12.oh.us",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nordangliaeducation.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "a4l.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "codemonkey.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gatewayusd.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gettingsmart.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "learninglist.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pembrokek12.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tutorful.co.uk",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "agoracom.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bookwidgets.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "classroom20.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eschoolnews.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maneuveringthemiddle.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "protopage.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "surju.ee",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "contabostorage.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "entity.nz",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "foresttrailacademy.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "grahamjones.co.uk",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "intmath.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "norledgemaths.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "otuinter.school.nz",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pikmykid.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "portaportal.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachnet.ie",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thejournal.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tieonline.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "waiuku-college.school.nz",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "winnipegsd.ca",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "worthingtonchristian.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atenas.edu.ec",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "basicknowledge101.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "canopy.education",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dbis.edu.hk",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "filamentgames.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kidsactivitiesblog.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathgeekmama.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "metromin.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newmexicokids.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ocdut.kr.ua",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rcsd.k12.in.us",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scienceinschool.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "almeidatecno.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "baradene.school.nz",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ccgrammarschool.co.uk",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "colourmylearning.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dolemes.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gaelscoilnacruaiche.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getfreeebooks.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ideahomeschool.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inven.ai",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "johnlyon.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "madisonmohawks.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nmrec1.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onlinemathlearning.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "talentnook.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techeduplearning.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woodvilleschools.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yellincenter.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alkaser.ae",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "britishschool.si",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cgsnc.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chauncyschool.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cindysnewmexicollcs.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cobis.org.uk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cohen-rose.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "earlymathcounts.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edutechconsultancy.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "funwithkidsinla.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ifamilykc.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inverns.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jornaldecampinas.com.br",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "k12dive.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kmc.ks.ua",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kolgym.if.ua",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "l-ecole-a-la-maison.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "leadersarereaders.co.uk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "learnbydoing.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lifefamilyfun.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lincolnshiregateway.co.uk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "livingmaths.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "morethanmaths.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "numberdyslexia.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oedb.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "olvinfants.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "primarylearning.com.au",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prlog.ru",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "schoolofthemadeleine.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stdeclans.ie",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stpeters.es",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "student-tutor.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sylvanlearning.edu.vn",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tanyakhovanova.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachingpython.fm",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tech4teaching.net",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thetechedvocate.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tutorsplus.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wikiskola.se",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "www.gov.uk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abbastemplecombeprimary.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abschools.k12.wi.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alisonmcnamara.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alldigitalschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "angriananns.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "artfulhomemaking.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "askatechteacher.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atheans.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atlantagaestateplanning.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "autoloancalculator.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bearacs.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bedwashigh.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bernicezieba.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bestedlessons.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bgcmn.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "boostcafe.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brightmindsgather.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brooklynletters.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "businesspundit.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "busynessgirl.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "catcoteacademy.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ccsunited.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cebi.edu.ec",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "changomaniaco.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "classroomwishlist.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "clickschooling.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "communitysystems.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "consiliumeducation.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "csj.g12.br",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ct4me.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "danielstucke.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "donegaledcentre.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dromiskinns.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "durkinpark.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eastpointehs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ecampusnews.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtechroundup.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educationbusinessblog.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educationtoday.com.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edufront.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edunews.pl",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edutechintegration.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "egaschool.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elitclass.com.ua",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "entelechy.app",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eskeretns.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "exploreficanada.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fetchy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "filterfreeparents.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fobisia.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gabrielleni.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gaelscoilmhuscrai.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gamingbolt.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getbrainybox.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gordonschools.aberdeenshire.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greatcrosbycatholicprimary.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greenhouseschoolwebsites.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gropay.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "guardianangels.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "handlingbusiness.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "holyredeemercatholicschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "home-ed.vic.edu.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "huntingdonprimary.cambs.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "huntingtonisd.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "huntsgrove.academy",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ianaddison.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "insectman.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "irs.org.br",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "isbournevalleyschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ishcmcrhinohub.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joiningmoms.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "josephwhittaker.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kapiert.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "katoombahschools.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kiasa.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knockatallonns.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kraskizhizni.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kykidscompete.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lankskafferiet.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "laurabestler.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "leadtoachieve.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "learnatzenith.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "learningconversations.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "learninggame.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lessonplanned.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lowtonhs.wigan.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ltsblogs.org.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "manchestergate.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "material365.cat",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "math4texas.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathforlove.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathloob.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathslinks.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathsweek.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mearns.aberdeenshire.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "microlinkinc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "milesberry.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "milfordns.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mountstcatherines.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mr-vango.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrcalise.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrreddy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrsemsmathmayhem.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mudmotortalk.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "muinteoirvalerie.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myconnecticutkids.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "narpro.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "neerlandiaschool.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newfield.org.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nexus-education.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nje3.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "northeastfamilyadventures.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oiam.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "olbns.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onlineeducation.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onthecuttingfloor.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oran.k12.mo.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pallack.de",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peterliljedahl.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "profounderscapital.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "project-gamma.eu",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "projetotecnologiaparatodos.com.br",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prosperousns.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rac.me.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rambamwellness.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "retns.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rhosstreetschool.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ringmerprimary.school",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "robertosconocchini.it",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "roe40.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rrvecnd.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ruthkeattch.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "safacommunityschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "saintteresas.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "schoolsforchildreninc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scienceandmaths.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scienceforgeorgia.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scoilchroinaofaathenry.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scoilmochua.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scoilnanaomhuilig.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seanmathmodelguy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "seruniversitario.com.br",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shimnaintegratedcollege.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "singinghedgehog.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sjw.bham.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "skola-smart.cz",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smartboardingschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smithycroft-sec.glasgow.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "st-margarets.warrington.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "st-scholasticas.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stannesnavan.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startsateight.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startupill.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "staveley.cumbria.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stbedescc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stbrigid.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stcolumbasps-ballerin.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stgeorges.wirral.sch.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stmarysdungarvan.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stmarysonthehill.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stteresaslurgan.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stthomasmoreschool.org.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stthomaswernethprimary.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "swordseducatetogether.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "talesofteachingwithtech.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teacherplayground.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachersfirst.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachforever.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "texasloddtaskforce.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thealton-q1e.org.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thebritishschool.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thembatutors.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "themommiesreviews.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theswanageschool.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "trinityschool.org.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tutoringwithatwist.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "upperelementarysnapshots.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "viesearch.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wartgames.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "waterwells.academy",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whinmoorstpauls.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wilkinstownns.ie",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woodlandacademy.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wyvilschool.org.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abrale.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "allhallowsprimary.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "allsaints.bradford.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anpslibrary.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ashtongate.bristol.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ballinderryprimaryandnursery.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ballyadamsns.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "banoguens.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "barnacoguens.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "barnwoodpark.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "biggerdreamerproductions.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blackwood-school.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bobbieallsop.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "booker-junior.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brains.global",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chapalestine.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chatsworthprimaryschool.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "childrenshospitalschool.leicester.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chucklearns.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cloonlyonns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "codereadnetwork.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "colegioalternativotalentos.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "colegiobasico.com.br",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "colegiosaintclair.com.br",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "comberprimary.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "consultshol.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "corpeluva.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cranbornemid.dorset.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "creativerewardae.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "denisekhenry.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "devmgames.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "donardnswicklow.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "drumconrathns.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "drumlea.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dunoit.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dynamicdad.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edgeoflearning.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edmagication.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elloughtonprimaryschool.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ennisns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "evolveschool.co.za",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "excitededucator.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flourishfederation.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "foxtonbeach.school.nz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gaelscoileadainmhoir.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gaelscoiloilibheir.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gatefordpark.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gccism.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gplpublishing.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "grange.academy",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "grangeprimary.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "grangeprimaryglos.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greatharwoodstjohnscofeprimary.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "happyhomeeducation.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heathns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hillsideprimaryglos.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hovatterclassroom.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "huntsgroveprimary.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hyndland-sec.glasgow.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "imtawexford.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "itassocs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "iuseful.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jbrish.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jogandocasualmente.com.br",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joysyjohn.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kansasdigitalnews.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kgaringmer.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kildimons.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kirkellaprimaryschool.org.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kyleparkns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lankskafferiet.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "larkspurprimary.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "leithacademy.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "leonaacademicsmw.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "logingit.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lxdlearningexperiencedesign.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mangahighschool.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathgametoplay.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mathssandpit.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mistymartinez.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "monasterynsardee.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "moomoomathblog.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "moveenns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mpetns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrbalwayscare.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrflock.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrgalusha.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrkylestyle.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrscchatclass.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "msdouglass.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "muslimns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myballyhenryps.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newcollegeschool.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "officegoogle.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oprofessor.pt",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rathfeighns.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "riversesc.herts.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rocketlearn.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "saintwendelschool.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sbrathcormac.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scoilchaitriona.info",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sisgroup.lk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sliabhamhadra.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spcj.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "specialedresource.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "standrewscurragha.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stannesps.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stbridesps.org.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stbrigidscoonns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stpauls.cheshire.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "testokazi.xyz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theboulevardacademy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thecentreforpeace.com.au",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thequestacademy.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tmbs.leics.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "traciwilkersonsteckel.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tullyallenns.ie",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tynecastlehighschool.org.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "usd284.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "villageofexeter.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webyourclass.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "westfield.wigan.sch.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whitechurchns.biz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wiricentral.school.nz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wombwellparkstreet.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ysgolyfaenol.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "requested_domain": "tinkerly.com",
+  "matched_domain": "tinkerly.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "findmeacure.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "parikshitkhanna.com",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}

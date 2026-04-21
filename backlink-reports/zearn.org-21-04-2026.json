@@ -1,0 +1,4129 @@
+{
+  "requested_domain": "zearn.org",
+  "matched_domain": "zearn.org",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "blogspot.com",
+      "host_count": "4246764",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "weebly.com",
+      "host_count": "562881",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wixsite.com",
+      "host_count": "479176",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "github.io",
+      "host_count": "284009",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "amazonaws.com",
+      "host_count": "186147",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "neocities.org",
+      "host_count": "158938",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.com",
+      "host_count": "41269",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edublogs.org",
+      "host_count": "31601",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wildapricot.org",
+      "host_count": "8978",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stanford.edu",
+      "host_count": "8469",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "harvard.edu",
+      "host_count": "6747",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "illinois.edu",
+      "host_count": "5125",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psu.edu",
+      "host_count": "4199",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sharpschool.com",
+      "host_count": "3426",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "upenn.edu",
+      "host_count": "2609",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "purdue.edu",
+      "host_count": "1422",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oregonstate.edu",
+      "host_count": "1391",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ohio.gov",
+      "host_count": "1096",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kyschools.us",
+      "host_count": "1089",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "amazon.com",
+      "host_count": "1088",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "colorado.edu",
+      "host_count": "1070",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "schoolinsites.com",
+      "host_count": "1038",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "texas.gov",
+      "host_count": "1004",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wednet.edu",
+      "host_count": "692",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "k12.sd.us",
+      "host_count": "651",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nj.gov",
+      "host_count": "435",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "k12.hi.us",
+      "host_count": "376",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "k12.nd.us",
+      "host_count": "368",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "state.co.us",
+      "host_count": "343",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "louisiana.gov",
+      "host_count": "310",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "houstonisd.org",
+      "host_count": "306",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "k12.com",
+      "host_count": "287",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sharpschool.net",
+      "host_count": "207",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fxbrt.com",
+      "host_count": "206",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gcsnc.com",
+      "host_count": "206",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mojohelpdesk.com",
+      "host_count": "199",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "echalksites.com",
+      "host_count": "195",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eurekster.com",
+      "host_count": "189",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aps.edu",
+      "host_count": "181",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jeffcopublicschools.org",
+      "host_count": "174",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pasco.k12.fl.us",
+      "host_count": "162",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "latech.edu",
+      "host_count": "152",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fcps.net",
+      "host_count": "151",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rowan.edu",
+      "host_count": "150",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "streampoint.com",
+      "host_count": "139",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gettysburg.edu",
+      "host_count": "137",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "macam.ac.il",
+      "host_count": "136",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "detroitk12.org",
+      "host_count": "125",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dcsdk12.org",
+      "host_count": "113",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "okpls.org",
+      "host_count": "106",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ousd.org",
+      "host_count": "106",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psdschools.org",
+      "host_count": "105",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tulsaschools.org",
+      "host_count": "98",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prnewswire.com",
+      "host_count": "97",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bvsd.org",
+      "host_count": "94",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jpschools.org",
+      "host_count": "89",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cpsb.org",
+      "host_count": "87",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "codewizardshq.com",
+      "host_count": "83",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hallco.org",
+      "host_count": "82",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brevardschools.org",
+      "host_count": "81",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dearbornschools.org",
+      "host_count": "81",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "d11.org",
+      "host_count": "78",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wsd.net",
+      "host_count": "78",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lsr7.org",
+      "host_count": "77",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "svsu.edu",
+      "host_count": "76",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atlantapublicschools.us",
+      "host_count": "75",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "govdelivery.com",
+      "host_count": "75",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "u-46.org",
+      "host_count": "73",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "davidson.k12.nc.us",
+      "host_count": "71",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vansd.org",
+      "host_count": "70",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heritage.org",
+      "host_count": "67",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "matsuk12.us",
+      "host_count": "66",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dvusd.org",
+      "host_count": "65",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marionschools.net",
+      "host_count": "62",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theasianparent.com",
+      "host_count": "62",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rock-hill.k12.sc.us",
+      "host_count": "61",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "montebello.k12.ca.us",
+      "host_count": "60",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oncoursesystems.com",
+      "host_count": "57",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sfusd.edu",
+      "host_count": "57",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vistausd.org",
+      "host_count": "57",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "asd20.org",
+      "host_count": "56",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nhcs.net",
+      "host_count": "56",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "phmschools.org",
+      "host_count": "54",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edweek.org",
+      "host_count": "50",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cobbk12.org",
+      "host_count": "46",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "omsd.net",
+      "host_count": "46",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "paulding.k12.ga.us",
+      "host_count": "46",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "topekapublicschools.net",
+      "host_count": "43",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "esc7.net",
+      "host_count": "42",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "giphy.com",
+      "host_count": "42",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greeleyschools.org",
+      "host_count": "42",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hn.cz",
+      "host_count": "40",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ncmcs.org",
+      "host_count": "40",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gatesfoundation.org",
+      "host_count": "39",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "celebs-networth.com",
+      "host_count": "38",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anderson5.net",
+      "host_count": "37",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tangischools.org",
+      "host_count": "37",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "husd.us",
+      "host_count": "36",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bpusd.net",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "classlink.com",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lowell.k12.ma.us",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nsd131.org",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psd1.org",
+      "host_count": "35",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "branchingminds.com",
+      "host_count": "34",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chalkbeat.org",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "district65.net",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ebrschools.org",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gostudent.org",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "habershamschools.com",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smfcsd.net",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "d131.org",
+      "host_count": "32",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pueblod60.org",
+      "host_count": "32",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aceroschools.org",
+      "host_count": "31",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hemetusd.org",
+      "host_count": "31",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "montgomeryschoolsmd.org",
+      "host_count": "31",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beaumontusd.us",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "glynn.k12.ga.us",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "isd411.org",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rcsd.ms",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "statusgator.com",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "welcometothejungle.com",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ysd7.org",
+      "host_count": "30",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "carrollcountyschools.com",
+      "host_count": "29",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wcsga.net",
+      "host_count": "29",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bsdvt.org",
+      "host_count": "28",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lhric.org",
+      "host_count": "28",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sd129.org",
+      "host_count": "28",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sd25.us",
+      "host_count": "28",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sunburst.com",
+      "host_count": "28",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "westboroughk12.org",
+      "host_count": "28",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chclc.org",
+      "host_count": "27",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cta.org",
+      "host_count": "27",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "musd.org",
+      "host_count": "27",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stmaryk12.net",
+      "host_count": "27",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wcskids.com",
+      "host_count": "27",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cv.k12.ca.us",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edsurge.com",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elclasificado.com",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "isd728.org",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ntps.org",
+      "host_count": "26",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ccsd.edu",
+      "host_count": "24",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sumnersd.org",
+      "host_count": "24",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tipton-county.com",
+      "host_count": "24",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vvsd.org",
+      "host_count": "24",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fallriverschools.org",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "idealist.org",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "moreland.org",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "natomasunified.org",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "saintmartinschools.org",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lincolnschools.org",
+      "host_count": "22",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ortn.edu",
+      "host_count": "22",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "turlock.k12.ca.us",
+      "host_count": "22",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cherokee1.org",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prodigygame.com",
+      "host_count": "21",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "casdonline.org",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "framingham.k12.ma.us",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fusdaz.org",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nylearns.org",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "relay.edu",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tcea.org",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtrust.org",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fmsd.org",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mimeo.com",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dubois.school",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "outschool.com",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wythe.k12.va.us",
+      "host_count": "18",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "englewoodschools.net",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ercsd.org",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mvwsd.org",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nfschools.net",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onlineschool.ca",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "putnamschools.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yucaipaschools.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "montgomery.k12.nc.us",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onemedical.com",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pleasantvalleysd.org",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whittiercity.net",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "builtin.com",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dcsd.net",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edutopia.org",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "humboldtunified.com",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nga.org",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nus.org.ua",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pellcityschools.net",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sikestonr6.org",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "slusd.us",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uplers.com",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bcsdk12.org",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eaton.k12.co.us",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lee.k12.ga.us",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "millingtonschools.org",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mypagosaschools.com",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scotland.k12.nc.us",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "white.k12.ga.us",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "apsb.us",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "arageek.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bn98.org",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ccsso.org",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "coventryschools.net",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "losd.ca",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mimio.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "northandoverpublicschools.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pierce.k12.ga.us",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "portangelesschools.org",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ptaa.org",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "solutiontree.com",
+      "host_count": "13",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alludolearning.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "boazk12.org",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "harris.k12.ga.us",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "weareteachers.com",
+      "host_count": "12",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cornwallschools.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "d124.org",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dailysignal.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "devby.io",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fatherly.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hickmanschools.org",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smithcoedu.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "southgateschools.com",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachersoftomorrow.org",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vcpusd.org",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vhcs.us",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "voorhees.k12.nj.us",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bayfield.k12.co.us",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bbhcsd.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eurekausd.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "haverford.k12.pa.us",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hilmarusd.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lpssonline.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stonewater.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stoningtonschools.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techlearning.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wallbuilders.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "westperry.org",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whio.com",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "caswell.k12.nc.us",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ephrataschools.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "grainger.k12.tn.us",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "husd.net",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kunc.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "madeformath.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "manteno5.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marshallpublicschools.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "modernclassrooms.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sufferncentral.org",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teameureka.net",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "xataka.com.mx",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "a4l.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bambergschools.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "boredteachers.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "buckslib.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "camsch.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "colchesterct.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "concordps.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "erstrategies.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gatewayusd.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gettingsmart.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hpcsd.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "instructionpartners.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "moffatsd.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mpesd.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nanuetsd.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newprofit.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "osbornschools.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pbisrewards.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peekskillcsd.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "salida.k12.ca.us",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "santaritaschools.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "schusterman.org",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scottsboroschools.net",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "usd320.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wwcsd.net",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bitira.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "breathitt.k12.ky.us",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "builtinnyc.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "classroom20.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cpsbla.org",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dcs.k12.oh.us",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "diversifytech.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eschoolnews.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "highperformr.ai",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "i4cp.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kamiapp.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knobnoster.k12.mo.us",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mahpiyaluta.org",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pagerly.io",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "protopage.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stafford.k12.ct.us",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wswheboces.org",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dibollisd.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "diwaker.io",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edweb.net",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "emoschools.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ffwd.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "freshair.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ignacioschools.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "isdown.app",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jetlearn.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lsst.ac",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "makemathmoments.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "medinacsd.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nsps.us",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "portaportal.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rocketshipschools.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rvbears.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scsboe.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "swooped.co",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teach4theheart.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thejournal.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uchicagocharter.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "usdigitalresponse.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "annajah.net",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anytime-soccer.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ascension-parish.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "avazapp.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "baisedu.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "buelltonusd.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cabool.k12.mo.us",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "capitantigers.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "characterlab.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "clinchcounty.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cwtigers.net",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dealhack.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dekalbschools.net",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ecarrollschools.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edscoop.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educatingalllearners.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educationwalkthrough.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fasdk12.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kaipodlearning.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kimberly.edu",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mtsd.k12.wi.us",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "netchoice.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newschools.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "parentdata.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peekapak.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pelham-city.k12.ga.us",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "resoneo.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rpl.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sd735.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tka4.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "usd348.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bkkkids.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "camrapenn.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "create-learn.us",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dailymom.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eatondc.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ednc.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getfreeebooks.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heath.k12.oh.us",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "intellectualtakeout.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joinprisma.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "laschoolreport.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lcss.us",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "midwesttech.edu",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "monstermath.app",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nonprofitremote.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orchardview.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pcwolves.net",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psdri.net",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "riveteducation.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sageoak.education",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sebring.k12.oh.us",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "staacademy.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theedadvocate.org",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thelavinagency.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "achievethecore.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aecsd.education",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aroundthekampfire.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bcsd15.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beanstalkmums.com.au",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bmyc.vn",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "capicougars.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "captivatingcompass.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chathamlib.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "coxblue.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "crpe.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ctsenaterepublicans.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cultofpedagogy.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "decorah.k12.ia.us",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "denver7.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edcircuit.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ednavigator.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "efcps.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "escco.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "evidenceforessa.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "familyactionnetwork.net",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "forstudentsuccess.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fullmindlearning.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greensocialthought.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hanoverhorton.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "highfivepartners.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hillcountryportal.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ifamilykc.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "insightstobehavior.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jlwaite.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kidsdigitalhealthhub.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kopyst.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lawtoncs.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ldsociety.ca",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lifefamilyfun.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "llcharter.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "loveandmarriageblog.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lumiere-education.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "luminspi.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mamakatinglibrary.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "milwaukeeacademyofscience.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "multi-programming.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "neo-rls.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "overdeck.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "papaly.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pecschools.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps005m.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "reedsport.k12.or.us",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "richland.k12.la.us",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thetechedvocate.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tizmos.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "twistmepretty.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "warwicksd.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whitko.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "x4i.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zedniy.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "189bilc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "4education.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "4onemore.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "7wayfinders.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abtelementary.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "adamseducate.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aeaohio.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "agileforall.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alexandriacentral.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alfintechcomputer.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alldigitalschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alrahmah.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "americaforward.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anchorbizit.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anna.k12.oh.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anyschoolers.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "arapahoeschools.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "askatechteacher.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "asuprepglobal.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ataiva.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atlantagaestateplanning.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atsameip.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "austinachieve.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "avondalemeadowsacademy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "azcharter.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "backpackinteractive.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bcsredding.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beautyinbedlam.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beingmrsfowler.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "berkleybulls.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bestaiforkids.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bestedlessons.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bfdc.k12.ok.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bluemeridian.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bobbiegrennier.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "borchardtpta.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "boxelderbears.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brflaim.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brightmindsgather.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bromleyeastcs.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bronxcompass.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brooklynbees.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brooklynletters.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "browngirlscode.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "brpskids.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "burkevilleisd.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "canyongrove.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cbschools.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cca4100.info",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ccsd146.k12.il.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cctmath.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ceamteam.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "childrenscoalition.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "christopheravenuecommunityschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "clarified.life",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "classroomwishlist.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "columbusonthecheap.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "corelearn.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cpschools.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ct4me.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cumberlandpediatricdentistry.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cusd3.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "d168.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "daltonlocal.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dcpharperwoods.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "declarationforindependence.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dekalbisd.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "directorysiteslist.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eastpointehs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edalliesmn.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edpost.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "education-first.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educationnext.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eduprize.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "elearnmagazine.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "electraisd.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "entelechy.app",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "epichighschoolsouth.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "esopuslibrary.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "everychildthrives.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ewinggradeschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "exploreficanada.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "explorersacademyst.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fdaviii.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fhfofgno.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fp.k12.oh.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fpls.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fsd157c.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "futuramo.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "galapagoscharter.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gesher-jds.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "getbrainybox.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "globaleducationmedia.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "globalnewsbulletin.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gobeyondgrades.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goldenbeach.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "govfacts.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greenhouse.studio",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "groundcontrolparenting.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gulfstreamschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gusd.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "happyflowerdaycare.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "harvey152.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hemetlearnstogether.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hillcrestweb.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hocowatchdogs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "holtonschools.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "homeschool4free.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "homeschoolconnective.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hopegso.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "huntingtonisd.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "impactopportunity.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inbenefit.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "informationoutpost.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ipsksa.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jctes.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jmsk12.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joannejacobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobscollider.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "justabxmom.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "k12irc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "keeseeskids.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kellistoweid.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kentuckyteacher.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kidatschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kindacademy.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kirbytrojans.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knightsferryesd.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "knowingtechnologies.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "laureatecharter.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lickcreekschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linkddl.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "littlesinger.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "loginslink.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lsta.info",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lumingranville.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "luminpilgrim.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mallasajjan.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "math-exercises-for-kids.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mckeelcentral.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mes150.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "microlinkinc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "microschools.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mindmaths.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mkewithkids.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "momhacks101.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "monkeyandmom.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "morganisd.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mothermag.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mr-vango.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrshillz.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrsrenz.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "msd.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myconnecticutkids.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mylifewellloved.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mymaxcharterschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "myquickfit.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nancyebailey.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nanova.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nashuatu.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "newyorkmills.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "njedreport.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nolantomboulian.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "notsowimpyteacher.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nycoutwardbound.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oakhill.k12.oh.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oesca.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onecityschools.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onlineeducationjobs.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "onthecuttingfloor.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oran.k12.mo.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orange-elem.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "paineschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pesitucson.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pineeaglesd.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "power-tools-pro.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prmrocks.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prolocogeracisiculo.it",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "promptsuccor.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps172.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps197m.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps219.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps221brooklyn.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps321.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps335elementaryschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps377q.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps398brooklyn.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps456.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps52k.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps52si.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps68bronx.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps81.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "racs446.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rambamwellness.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "riverridge210.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "roe40.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rpplpartnership.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "s4science.co.uk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "saintrosecatholicschool.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "saladolibrary.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "salamacademy.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sandyvalleylocal.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scienceandliteracy.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sd60c.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shcsjc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shelbyk12.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "shopperchecked.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "similarsitesearch.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smartlinks.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "socalcollegeaccess.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spellingjoy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "spotlightonpoverty.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sst11.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stephanieodea.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stephenfosterpta.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stjohnsguam.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stphilipsmilwaukee.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "surfskatescience.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "svcmontessori.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "syracusecityschools.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "taehs.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tailsofteaching.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tasamidwinter.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tcsos.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachersfirst.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachinginroom6.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techjobsforgood.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "techtips411.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "telesisacademy.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "the-learning-agency-lab.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thearticon.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thebestclass.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theblpsgroup.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thehighlysensitiveperson.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thembatutors.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thepathschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thespl.it",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tigerweb.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "time4kindergarten.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tmeikes.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "treevalleyacademy.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "trendingineducation.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tutoringwithatwist.ca",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "twiniversity.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uppercaseteach.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "urs86.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vanyc.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vinalhavenschool.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "westside.k12.ca.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "whiterock.k12.ok.us",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "widescreengamer.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woodland5.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "wwgschools.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "yoconews.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "24img.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "2mathdoctors.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "adazioneducationalconsulting.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aileencooks.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "albertbaxterelementary.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "allen.lib.la.us",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "allthingsedtech.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "alphaprepacademy.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anglebelearn.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-seo-eastvale.space",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-seo-fairview.space",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "assessmenthq.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beyondtheclassroomsd.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bges.education",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blendinginpodcast.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "boxelder.k12.mt.us",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "briancolton.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "btdthomeschool.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cc-montessori.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "centennialsea.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "circularsymphony.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "connect-extend.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "courses4kids.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "customersuccessjobs.co",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dcpredford.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "demystifyingeducation.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "district-software.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dolandschool.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edimpactconsortium.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtapas.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtechjobs.io",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtechmrbrown.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "educationstartupfame.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eduprogress.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "embarc.online",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "epichighschoolnorth.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "faberk.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fairfieldcityschools.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fairleelibrary.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fcsd38.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flpshomework.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "focusacademycentral.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "focusacademynorth.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "foxtonbeach.school.nz",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fullyeducated.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "giem.lt",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goingstrongin2ndgrade.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "greenhills.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "heartonomy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hickmancharter.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "homeschoolacademics.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "innovationslearningacademy.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "inspiringinquiry.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "is392.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "itawambaattendancecenter.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jbrish.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jdplibrary.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joltbooks.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kansasdigitalnews.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kgaringmer.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kingsriverelementary.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ktsplace.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lasfloreseducationalcenter.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "legacycharterchicago.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "legacyleadershiphs.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "legacyschoolofthearts.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lnks.gd",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lsds.us",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "madisoncountykids.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "marcusgarveymagnet.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mayfairlabschool.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "maythefourthbewithyou.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mbusd.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "miok12.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "misterfranklin.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mrsgarten.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ms137.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ms340bk.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ms428.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ms593.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mscroninsclass.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mshelphub.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mskinderclark.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nematerialsmatter.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ngschoolboard.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "northstarlearn.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nuevasfronteraspcusa.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nychscl.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "officegoogle.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orlando-parenting.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "orondoschool.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ouradventuresinhomeschooling.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "p721q.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "parkside-prep.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pelicanstateofmind.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "peopleopsjobs.io",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "piccolo-rosso.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "prospectlibrary.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps105k.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps12.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps132x.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps151k.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps153x.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps159k.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps181brooklyn.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps19.us",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps20statenisland.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps235jmk.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps35x.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps45cws.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps65k.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ps94k.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psis116q.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psis155.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psms105.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psms31.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "psms5.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "qjnav.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "richtalbot.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "scr.consulting",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sesk12.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sethlowis96.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sforcejobs.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sisgroup.lk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sisterclaramohammedstemschool.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sofbk.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sofidanvers.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stem-apalooza.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stephenfosterelementary.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "stressfreemathforkids.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "studywithmekv.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sussexmontessoricharter.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teshley.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theacademiescharters.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theempowermentacademy262.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "themamaguide.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thepapercabin.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thesunshinemethod.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "toodopeteachers.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tools-competition.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tpespta.net",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "traciwilkersonsteckel.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tututalk.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vbisdresources.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vdrmagnet.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "visionacademy-riverside.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vistaacademybrooklyn.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woodburylibrary.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "zearn.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

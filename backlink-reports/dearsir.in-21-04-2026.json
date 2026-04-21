@@ -1,0 +1,19 @@
+{
+  "requested_domain": "dearsir.in",
+  "matched_domain": "dearsir.in",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "beststartup.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edukatorsclub.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

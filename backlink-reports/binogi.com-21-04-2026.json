@@ -1,0 +1,104 @@
+{
+  "requested_domain": "binogi.com",
+  "matched_domain": "binogi.com",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-04-21T07:05:09.863Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "nord.no",
+      "host_count": "34",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vinnova.se",
+      "host_count": "19",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "tomorroworld.com",
+      "host_count": "17",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "internetstiftelsen.se",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "edtechimpact.com",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vidis.schule",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eoiestepona.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "binogi.ca",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "binogi.de",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "binogi.se",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "binogi.fi",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kopyst.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cedile.ch",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "comparable-companies.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "empower2learn.online",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "loginslink.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "digital-classroom.co.uk",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "flssaintimier.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "intercom-help.eu",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}
