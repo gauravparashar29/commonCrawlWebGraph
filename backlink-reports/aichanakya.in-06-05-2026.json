@@ -1,0 +1,19 @@
+{
+  "requested_domain": "aichanakya.in",
+  "matched_domain": "aichanakya.in",
+  "release": "cc-main-2026-jan-feb-mar",
+  "generated_on": "2026-05-06T17:18:04.087Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "jaipurtimes.org",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "akii.com",
+      "host_count": "3",
+      "edge_count": "1"
+    }
+  ]
+}
