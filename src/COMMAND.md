@@ -33,6 +33,7 @@ Environment variables
 
 - `CC_RELEASE`: Common Crawl hyperlink graph release to use. Defaults to `cc-main-2026-jan-feb-mar`.
 - `CC_THREADS`: Optional DuckDB thread count. Set this to a positive integer to override the default thread count.
+- A repo-level `.env` file is loaded automatically when present. Shell environment variables still take precedence over values in `.env`.
 
 Behavior
 

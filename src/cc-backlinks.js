@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { access, mkdir, rename, stat, unlink } from 'node:fs/promises';
+import { access, mkdir, rename, stat, unlink, readFile } from 'node:fs/promises';
 import { constants as fsConstants } from 'node:fs';
 import { createWriteStream } from 'node:fs';
 import { dirname, basename, join } from 'node:path';
@@ -7,6 +7,38 @@ import { tmpdir } from 'node:os';
 import { randomUUID } from 'node:crypto';
 import { writeFile } from 'node:fs/promises';
 import duckdb from 'duckdb';
+
+async function loadDotEnv() {
+  const envPath = join(process.cwd(), '.env');
+
+  try {
+    const envFile = await readFile(envPath, 'utf8');
+    for (const rawLine of envFile.split(/\r?\n/)) {
+      const line = rawLine.trim();
+      if (!line || line.startsWith('#')) {
+        continue;
+      }
+
+      const separatorIndex = line.indexOf('=');
+      if (separatorIndex <= 0) {
+        continue;
+      }
+
+      const key = line.slice(0, separatorIndex).trim();
+      const value = line.slice(separatorIndex + 1).trim().replace(/^['"]|['"]$/g, '');
+
+      if (!(key in process.env)) {
+        process.env[key] = value;
+      }
+    }
+  } catch (error) {
+    if (error?.code !== 'ENOENT') {
+      throw error;
+    }
+  }
+}
+
+await loadDotEnv();
 
 const argv = process.argv.slice(2);
 const hasTrailingTopN = argv.length > 0 && /^\d+$/.test(argv[argv.length - 1]);
