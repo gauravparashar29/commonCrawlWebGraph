@@ -1,0 +1,94 @@
+{
+  "requested_domain": "magnetbrains.com",
+  "matched_domain": "magnetbrains.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-26T18:39:19.204Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "github.io",
+      "host_count": "292118",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "amazonaws.com",
+      "host_count": "186008",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.com",
+      "host_count": "46817",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eenadu.net",
+      "host_count": "32",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "saasboomi.org",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "formget.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "mywebread.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rajasthanemitra.co.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "salahe.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sbookscan.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teacherflix.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cloudsmallbusinessservice.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dailykranti.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "teachtoearn.in",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thedigitalsamrat.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woofresh.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

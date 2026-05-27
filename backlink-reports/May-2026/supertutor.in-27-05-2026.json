@@ -1,0 +1,44 @@
+{
+  "requested_domain": "supertutor.in",
+  "matched_domain": "supertutor.in",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-27T09:24:08.457Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "google.com",
+      "host_count": "46817",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "writeupcafe.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "admyurl.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aihuntlist.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ebay-dir.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "listedai.co",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aifinderguru.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

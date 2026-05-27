@@ -7,6 +7,7 @@ import { tmpdir } from 'node:os';
 import { randomUUID } from 'node:crypto';
 import { writeFile } from 'node:fs/promises';
 import duckdb from 'duckdb';
+import { getReportPath } from './report-paths.js';
 
 async function loadDotEnv() {
   const envPath = join(process.cwd(), '.env');
@@ -75,12 +76,6 @@ const formatBytes = (bytes) => {
 
   return `${size.toFixed(unitIndex === 0 ? 0 : 1)} ${units[unitIndex]}`;
 };
-const formatDateString = (date) => {
-  const day = String(date.getDate()).padStart(2, '0');
-  const month = String(date.getMonth() + 1).padStart(2, '0');
-  const year = String(date.getFullYear());
-  return `${day}-${month}-${year}`;
-};
 const normalizeDomainCandidates = (value) => {
   const candidates = [value];
 
@@ -115,9 +110,12 @@ async function ensureDir(filePath) {
 }
 
 async function writeDomainReport({ requestedDomain, matchedDomain, rows, noMatch, queryDate }) {
-  const dateString = formatDateString(queryDate);
-  const fileName = `${sanitizeFileName(requestedDomain)}-${dateString}.json`;
-  const reportPath = join(reportsDir, fileName);
+  const reportPath = getReportPath({
+    reportsDir,
+    requestedDomain,
+    queryDate,
+    sanitizeFileName
+  });
   const reportJson = {
     requested_domain: requestedDomain,
     matched_domain: matchedDomain,

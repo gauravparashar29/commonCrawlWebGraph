@@ -1,0 +1,69 @@
+{
+  "requested_domain": "studymateonline.com",
+  "matched_domain": "studymateonline.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-27T09:24:08.457Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "shine.com",
+      "host_count": "31",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beegdirectory.com",
+      "host_count": "7",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gowwwlist.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "justlink.org",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "harddirectory.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ifidir.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jet-links.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lemon-directory.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "searchdomainhere.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "steeldirectory.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "viesearch.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "webguiding.net",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}

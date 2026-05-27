@@ -1,0 +1,24 @@
+{
+  "requested_domain": "toppersbulletin.com",
+  "matched_domain": "toppersbulletin.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-27T10:56:24.903Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "sermitsiaq.ag",
+      "host_count": "11",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "humsa.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "woojong.co.kr",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}

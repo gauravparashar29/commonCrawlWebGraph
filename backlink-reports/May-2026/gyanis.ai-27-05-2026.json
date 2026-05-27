@@ -1,0 +1,24 @@
+{
+  "requested_domain": "gyanis.ai",
+  "matched_domain": "gyanis.ai",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-26T18:39:19.204Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "gptdemo.net",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "aitoolhub.net",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "toolatlas.io",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

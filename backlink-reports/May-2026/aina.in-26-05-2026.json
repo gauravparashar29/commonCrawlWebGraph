@@ -1,0 +1,29 @@
+{
+  "requested_domain": "aina.in",
+  "matched_domain": "aina.in",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-26T14:01:24.782Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "myshopify.com",
+      "host_count": "176868",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ynos.in",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "app-excellence.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "businessinsidercompany.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

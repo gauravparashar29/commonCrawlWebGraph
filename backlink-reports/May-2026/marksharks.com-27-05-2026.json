@@ -1,0 +1,24 @@
+{
+  "requested_domain": "marksharks.com",
+  "matched_domain": "marksharks.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-26T18:39:19.204Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "cnet.com",
+      "host_count": "365",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "vccircle.com",
+      "host_count": "34",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.in",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "requested_domain": "skidos.com",
+  "matched_domain": "skidos.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-27T04:21:10.655Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "blogspot.com",
+      "host_count": "4162832",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "apple.com",
+      "host_count": "3297",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cnet.com",
+      "host_count": "365",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sjsu.edu",
+      "host_count": "311",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eurekster.com",
+      "host_count": "190",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lovetoknow.com",
+      "host_count": "153",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.vg",
+      "host_count": "129",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.pl",
+      "host_count": "128",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.ws",
+      "host_count": "125",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.ch",
+      "host_count": "106",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.bg",
+      "host_count": "63",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theasianparent.com",
+      "host_count": "61",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "searchmobius.org",
+      "host_count": "60",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "giphy.com",
+      "host_count": "48",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.as",
+      "host_count": "46",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.com.cy",
+      "host_count": "45",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "google.tg",
+      "host_count": "42",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "globenewswire.com",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "adapty.io",
+      "host_count": "25",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "rovio.com",
+      "host_count": "23",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "abilogic.com",
+      "host_count": "15",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smurf.com",
+      "host_count": "9",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "eschoolnews.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "parentherald.com",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nowanda.app",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "indiegamr.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "destinyconnect.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "digitalhubdenmark.dk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dnbolt.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gamesdenmark.dk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "hisa.edu.vn",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "linkorado.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "lydogbillede.dk",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "adamseducate.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anonymousite.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bestedlessons.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "bestmobileappawards.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "blog-directory.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "college-counseling.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "compworth.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "directorysiteslist.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "jobringer.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "microlinkinc.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "monu.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pamakid.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "pgknma.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sbookscan.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "smileyworld.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "trueen.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "decapitalist.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "montessorimamas.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nordicstartupnews.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "phantomwatchers.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "renewableai.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "thepotential.org",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "toynewz.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "toyscomicscards.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "xphaven.in",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

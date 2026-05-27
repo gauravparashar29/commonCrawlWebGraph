@@ -1,0 +1,109 @@
+{
+  "requested_domain": "sigiq.ai",
+  "matched_domain": "sigiq.ai",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-27T04:21:10.655Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "globenewswire.com",
+      "host_count": "33",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "uplers.com",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "forbesjapan.com",
+      "host_count": "14",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "genai.co.jp",
+      "host_count": "6",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "padhai.ai",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "theconsumervc.com",
+      "host_count": "5",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "akii.com",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "atpartners.co.jp",
+      "host_count": "4",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "calibratevc.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "chiefaioffice.xyz",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "evertutor.ai",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ignitegtm.com",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "giantleap.com.au",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "ipocentral.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "joyceshen.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sig-edu.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "themainstreet.media",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "globalindianalpha.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "openatlas.events",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "startup-seeker.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

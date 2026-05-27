@@ -1,0 +1,29 @@
+{
+  "requested_domain": "brighttutee.com",
+  "matched_domain": "brighttutee.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-26T14:01:24.782Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "adbritedirectory.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "beststartup.in",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "gabrielestructural.com",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "goyal-books.com",
+      "host_count": "2",
+      "edge_count": "1"
+    }
+  ]
+}

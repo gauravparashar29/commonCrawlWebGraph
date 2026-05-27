@@ -1,0 +1,14 @@
+{
+  "requested_domain": "skilledsapiens.com",
+  "matched_domain": "skilledsapiens.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-27T04:21:10.655Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "uplers.com",
+      "host_count": "16",
+      "edge_count": "1"
+    }
+  ]
+}

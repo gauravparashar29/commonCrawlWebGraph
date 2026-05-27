@@ -1,0 +1,24 @@
+{
+  "requested_domain": "edza.ai",
+  "matched_domain": "edza.ai",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-26T18:39:19.204Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "uplers.com",
+      "host_count": "16",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "natrajx.in",
+      "host_count": "3",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "trendfeedr.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

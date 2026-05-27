@@ -1,0 +1,34 @@
+{
+  "requested_domain": "uolo.com",
+  "matched_domain": "uolo.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-27T10:56:24.903Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "airtribe.live",
+      "host_count": "8",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "kavyaptaglobal.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "nvnschool.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "oakwoodinstitutions.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "santinosglobalschool.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}

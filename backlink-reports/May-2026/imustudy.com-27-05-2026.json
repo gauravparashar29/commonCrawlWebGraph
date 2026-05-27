@@ -1,0 +1,94 @@
+{
+  "requested_domain": "imustudy.com",
+  "matched_domain": "imustudy.com",
+  "release": "cc-main-2026-feb-mar-apr",
+  "generated_on": "2026-05-26T18:39:19.204Z",
+  "no_match": false,
+  "backlinks": [
+    {
+      "linking_domain": "anomaly-seo-eastvale.space",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-seo-fairview.space",
+      "host_count": "20",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-accord.space",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-camaro.space",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-challenger.space",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-charger.online",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-civic.online",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-mustang.website",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "anomaly-skyline.website",
+      "host_count": "10",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "business-congress.ru",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "funrestaurantsinnyc.info",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "planet.horse",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "sisgroup.lk",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "steme.org",
+      "host_count": "2",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "cacaolandbmt.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "dskogsphoto.com",
+      "host_count": "1",
+      "edge_count": "1"
+    },
+    {
+      "linking_domain": "fivestarhomesandconstruction.com",
+      "host_count": "1",
+      "edge_count": "1"
+    }
+  ]
+}
